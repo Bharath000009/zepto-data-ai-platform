@@ -264,3 +264,10 @@ The saved object is a `sklearn.Pipeline` containing:
 Reload test (Section 11 of `02_modeling.py`): the reloaded pipeline predicts
 correctly on raw, unpreprocessed `X_test` rows — confirming the artifact is
 usable end-to-end on new data without any external preprocessing.
+
+## Note on Plots
+
+All PNG files in `analytics/plots/` are supporting artifacts only. Every
+required interpretation is provided in the written sections above (Sections
+1–15). The plots are provided for visual reference, not as a substitute for
+any written analysis.
